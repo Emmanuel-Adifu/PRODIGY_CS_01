@@ -1,6 +1,6 @@
 # PRODIGY_CS_01
 **INTRODUCTION**
-Caeser Cipher is a cryptographic technique used to encrypt and decrypt messages(data). this techique was brought up by Julius Caeser to send confidential messages. As at now this cryptographic techniques is still been used.
+Caesar Cipher is a cryptographic technique used to encrypt and decrypt messages(data). this techique was brought up by Julius Caeser to send confidential messages. As at now this cryptographic technique is still been used.
 The Caeser Cipher has alternative names of which some include shit Caeser, Caeser shift, Ceaser code, etc 
 
 **HOW IT WORKS**
